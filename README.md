@@ -10,8 +10,7 @@
 
 <div align="center">
  
-Thanks for going through my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be enhanced.
   
 ### 🤝🏻 &nbsp;Connect with Me
 
