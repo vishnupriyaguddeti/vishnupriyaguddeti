@@ -3,3 +3,19 @@
 </div>
 
 <div align="center" width="50"> 
+  
+<img src="https://github.com/vishnupriyaguddeti/vishnupriyaguddeti/blob/main/VishnuGif_git.gif" width="300"/>
+
+</div>
+
+<div align="center">
+ 
+Thanks for going through my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+  
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vishnu-priya-guddeti-546b07a4/"><img src="https://img.shields.io/badge/vishnupriya-LinkedIn-blue"/></a>
+<a href="mailto:vishnupriyaguddeti@gmail.com"><img src="https://img.shields.io/badge/vishnupriyaguddeti-gmail-red"/></a>
+</p>
